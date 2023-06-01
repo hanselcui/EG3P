@@ -1,6 +1,5 @@
 antlr4-python3-runtime==4.8
 bitarray==2.6.0
-certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
 cffi==1.15.1
 charset-normalizer==2.1.1
 click==8.1.3
@@ -48,7 +47,6 @@ smmap==5.0.0
 SQLAlchemy==1.4.40
 tablib==3.2.1
 tabulate==0.8.10
--e git+https://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@github.com/cccccent/commonsenseGeneration.git@1d718c13c1c057859c45ed9d54b183177e8d95df#egg=tapex
 tokenizers==0.12.1
 torch==1.12.1
 torchaudio==0.12.1
@@ -58,6 +56,3 @@ typing_extensions==4.3.0
 urllib3==1.26.12
 wandb==0.13.2
 zipp==3.8.1
-
-
-salloc -N 1 --mem=32GB -t 8:00:00 -p compute --gres=gpu:tesla_p100-pcie-16gb:1 -w gpu09
