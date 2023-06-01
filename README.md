@@ -5,13 +5,13 @@ The repository which contains the code and pre-trained models for our paper: Exp
 
 In this paper, we present $EG^3P$ (for Explanation Graph Generation via Generative Pre-training over Synthetic Graphs), a pre-training structure for explanation graph generation. As shown in the Figure 1, $EG^3P$ contains a pre-training method in the form of "text-to-graph", and an automated process for automatically synthesizing aligning corpus.
 
-![Figure 1](overview.png)
+![Figure 1](fig/overview.png)
 
 <center>Figure 1: Overview of EG3P</center>
 
 In the process of pre-training, we input the synthesized query and simulated knowledge base, and the model will output the reasoning graph. In addition, we have constructed a large number of composite graphs and natural language queries based on external structured knowledge bases, and the specific synthesis process is shown in the following Figure 2.
 
-![](./corpus_construction.png)
+![](fig/corpus_construction.png)
 
 <center>Figure 2: Construction of the synthetic corpus.</center>
 
