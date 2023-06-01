@@ -1,6 +1,6 @@
 
-# ![](http://latex.codecogs.com/svg.latex?EG^3P): Explanation Graph Generation via Generative Pre-training over Synthetic Graphs
-
+<!-- # ![](http://latex.codecogs.com/svg.latex?EG^3P): Explanation Graph Generation via Generative Pre-training over Synthetic Graphs -->
+# $EG^3P$: Explanation Graph Generation via Generative Pre-training over Synthetic Graphs
 The repository which contains the code and pre-trained models for our paper: Explanation Graph Generation via Generative Pre-training over Synthetic Graphs.(ACL2023-Findings)
 
 ## Overview
