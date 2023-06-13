@@ -38,8 +38,8 @@ python ../src/evaluate.py eval \
  --predict-dir "${PREDICT_DIR}"\
  --sub-dir valid \
 
- ## handle the eval result and only leave the predict column
- ## default output path is predict path
+ ## Handle the eval result and only leave the predict column
+ ## Default output path is predict path
  python ../src/handle_result.py handle_result\
  --predict-path "${PREDICT_DIR}"\
  --output-path "${PREDICT_DIR}"\
