@@ -24,13 +24,9 @@ conda creative -n EG3P python=3.8
 pip install -r requirement.txt
 ```
 
-
-### Corpus Construction
-
-
-
-The codes of construction is coming soon.
-
+### Data and Models
+You could check the pre-training data and pre-trained model in the following link: [EG3P_Data_Model](https://pmrdv-my.sharepoint.com/:f:/g/personal/ch_pmrdv_onmicrosoft_com/EtygLGAsGGNBlTUyjko19VcBoxVgr5AYcdys9PD6fMW4wQ?e=NbZeMm)
+For detailed info, you could check the `README.md` in the dir of data.
 
 
 ### Training
