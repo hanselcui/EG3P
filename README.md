@@ -1,5 +1,5 @@
 # $EG^3P$: Explanation Graph Generation via Generative Pre-training over Synthetic Graphs
-The repository which contains the code and pre-trained models for our paper: Explanation Graph Generation via Generative Pre-training over Synthetic Graphs.(ACL2023-Findings)
+The repository which contains the code and pre-trained models for our paper: [Explanation Graph Generation via Generative Pre-training over Synthetic Graphs](https://arxiv.org/abs/2306.00652).(ACL2023-Findings)
 
 ## 📑Overview
 
